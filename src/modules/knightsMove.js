@@ -99,8 +99,8 @@ function printPath(square) {
  * Creates a chessboard and determines the shortest path from given start
  * and end coordinates
  *
- * @param {*} start - Start coordinates
- * @param {*} end  - End coordinates
+ * @param {Number} start - Start coordinates
+ * @param {Number} end  - End coordinates
  * @returns
  */
 function knightMoves(start, end) {
